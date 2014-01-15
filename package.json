@@ -1,0 +1,11 @@
+{
+  "name": "emergence",
+  "description": "An alternative Partkeepr frontend, focused on quick browsing and usability.",
+  "repository": "https://github.com/progman32/emergence",
+  "dependencies": {
+    "express": "3.x",
+    "jade": "1.1.x"
+  },
+  "devDependencies": {
+  }
+}
